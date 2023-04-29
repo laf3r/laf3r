@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @innokentiyG7
-- 👀 I'm interested in cryptography, information security(InfoSec stuff i place on my second account @laf3r) and programming different things.
-- 👾 Sometimes i making games https://innokentiyg7.itch.io
-- 📧 Contact: innokentiyg7games@gmail[dot]com
-<!---
-innokentiyG7/innokentiyG7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Привет, Меня зовут Иннокентий. Я энтузиаст в области информационной безопасности(infosec). Сейчас я учусь в университете по математической специальности, и на свой аккаунт я буду загружать свои учебные и личные проекты. 
+Мой девиз программирования:
+<b>До создания компьютеров человек мог создать всё что угодно. Теперь же - человек способен создать любую вещь в цифровой среде!</b>
+- 👀 Некоторые репозитории я перезалил со своего прошлого аккаунта @innokentiyG7
+- 👾 Иногда делаю игры на Unity, причём хорошо https://innokentiyg7.itch.io
+- 📧 Почта: igerasimovjob@gmail.com
+
